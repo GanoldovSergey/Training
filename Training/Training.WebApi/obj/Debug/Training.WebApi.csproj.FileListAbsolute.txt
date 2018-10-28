@@ -1,0 +1,370 @@
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.WebApi.dll.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.WebApi.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.WebApi.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csc.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csc.exe.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csc.rsp
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csi.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csi.exe.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\csi.rsp
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Console.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\vbc.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\vbc.rsp
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\AngleSharp.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\CsQuery.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\en-html2enml.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Evernote.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\EvernoteOAuthNet.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\EvernoteSDK.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\LinFu.DynamicProxy.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.OData.Core.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.OData.Edm.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Spatial.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Extensions.Interception.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Extensions.Interception.LinFu.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.Common.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\NLog.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\PreMailer.Net.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\SgmlReaderDll.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.AppContext.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Console.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Globalization.Calendars.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.IO.Compression.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.IO.FileSystem.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Net.Http.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Net.Sockets.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Spatial.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Helpers.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Http.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Mvc.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.OData.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Razor.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Thrift.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.BAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.DAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\WebActivatorEx.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.BAL.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Training.DAL.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\AngleSharp.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\CsQuery.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.OData.Core.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.OData.Edm.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Microsoft.Spatial.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Extensions.Interception.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Extensions.Interception.LinFu.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.Common.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\NLog.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Spatial.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Helpers.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Http.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Mvc.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.OData.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.Razor.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\obj\Debug\Training.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\obj\Debug\Training.WebApi.Resource.resources
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\obj\Debug\Training.WebApi.csproj.GenerateResource.Cache
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\obj\Debug\Training.WebApi.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.WebApi\obj\Debug\Training.WebApi.pdb
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.WebApi.dll.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.WebApi.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.WebApi.pdb
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csc.exe
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csc.exe.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csc.rsp
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csi.exe
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csi.exe.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\csi.rsp
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Console.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\vbc.exe
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\vbc.rsp
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\AngleSharp.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\CsQuery.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\en-html2enml.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Evernote.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\EvernoteOAuthNet.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\EvernoteSDK.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\LinFu.DynamicProxy.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.OData.Core.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.OData.Edm.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Spatial.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Extensions.Interception.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Extensions.Interception.LinFu.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.Common.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\NLog.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\PreMailer.Net.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\SgmlReaderDll.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.AppContext.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Console.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Globalization.Calendars.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.IO.Compression.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.IO.FileSystem.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Net.Http.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Net.Sockets.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Spatial.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Helpers.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Http.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Mvc.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.OData.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Razor.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Thrift.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.BAL.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.DAL.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\WebActivatorEx.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.BAL.pdb
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.BAL.dll.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.DAL.pdb
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Training.DAL.dll.config
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\AngleSharp.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\CsQuery.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.pdb
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Azure.Documents.OData.Sql.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.OData.Core.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.OData.Edm.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Microsoft.Spatial.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Extensions.Interception.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Extensions.Interception.LinFu.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.Common.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\NLog.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Spatial.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Helpers.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Http.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Mvc.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.OData.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.Razor.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.Resource.resources
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.csproj.GenerateResource.cache
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.csproj.CopyComplete
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.dll
+C:\Users\dolg6\source\repos\Training\Training.WebApi\obj\Debug\Training.WebApi.pdb

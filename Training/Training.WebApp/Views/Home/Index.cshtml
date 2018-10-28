@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Request.IsAuthenticated)
+{
+    <h1>Hello, @User.Identity.Name!</h1>
+    <div>Time is: @DateTime.Now</div>
+
+    <div class="btn btn-default">@Html.ActionLink("Sign Out", "SignOut", "Account")</div>
+}
+else
+{
+    <h1>Hello!</h1>
+    <div>Time is: @DateTime.Now</div>
+
+    <div class="btn btn-default">@Html.ActionLink("Sign In", "SignInAsync", "Account")</div>
+    <div class="btn btn-default">@Html.ActionLink("Sign Up", "SignUpAsync", "Account")</div>
+}
+
+
+
+
+
+

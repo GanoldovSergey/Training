@@ -1,0 +1,52 @@
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Training.DAL.dll.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Training.DAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Training.DAL.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Owin.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\obj\Debug\Training.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\obj\Debug\Training.DAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\Training.DAL\obj\Debug\Training.DAL.pdb
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Training.DAL.dll.config
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Training.DAL.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Training.DAL.pdb
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Owin.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dolg6\source\repos\Training\Training.DAL\obj\Debug\Training.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\source\repos\Training\Training.DAL\obj\Debug\Training.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dolg6\source\repos\Training\Training.DAL\obj\Debug\Training.DAL.csproj.CopyComplete
+C:\Users\dolg6\source\repos\Training\Training.DAL\obj\Debug\Training.DAL.dll
+C:\Users\dolg6\source\repos\Training\Training.DAL\obj\Debug\Training.DAL.pdb

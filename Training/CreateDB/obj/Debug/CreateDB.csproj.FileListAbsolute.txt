@@ -1,0 +1,111 @@
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\ApplicationInsights.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.DAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.WebApp.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Optimization.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Mvc.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Owin.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.BAL.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\NLog.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Ninject.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\WebGrease.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Razor.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.DAL.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.WebApp.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Optimization.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Mvc.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Training.BAL.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\NLog.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Ninject.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.Razor.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\dolg6\Documents\Visual Studio 2015\Projects\Training\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\ApplicationInsights.config
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.DAL.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.WebApp.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Optimization.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Mvc.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Owin.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.BAL.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\NLog.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Ninject.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\WebGrease.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Razor.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.DAL.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.DAL.dll.config
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.WebApp.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.WebApp.dll.config
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Optimization.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Mvc.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.BAL.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Training.BAL.dll.config
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\NLog.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Ninject.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.Razor.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dolg6\source\repos\Training\CreateDB\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\dolg6\source\repos\Training\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\dolg6\source\repos\Training\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\dolg6\source\repos\Training\CreateDB\obj\Debug\CreateDB.csproj.CopyComplete
+C:\Users\dolg6\source\repos\Training\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\dolg6\source\repos\Training\CreateDB\obj\Debug\CreateDB.pdb
